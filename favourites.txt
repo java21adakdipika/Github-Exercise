@@ -4,3 +4,6 @@ Pizza
 White Sauce Pasta
 Momos
 Misal Pav
+Horror
+Comedy
+Thriller
